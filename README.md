@@ -16,9 +16,9 @@ This section is cross-confirmed across 5 independently-synthesized source docume
 
 One internal cross-reference, to an unrelated and unconfirmed interpretive framing in a different domain of the private taxonomy, was removed from this export as out of scope for a standalone academic subtree.
 
-## License — not yet decided
+## License
 
-Content license for this export (e.g. CC-BY for citability) has not yet been chosen. Do not treat this repository as licensed for reuse until this section is updated.
+Content in `content/` is licensed under [CC BY 4.0](LICENSE-CONTENT.md) — free to share and adapt, with attribution. The Quartz tooling/code in this repository is separately licensed under MIT — see `LICENSE.txt`.
 
 ## Built with
 
